@@ -257,6 +257,7 @@
   .ourService .container .service-items .item {
     width: 300px;
     height: 450px; } }
+
 .ourSolutions .container {
   margin-top: 150px; }
   .ourSolutions .container h4 {
@@ -309,20 +310,12 @@
         line-height: 32px;
         color: #657790; }
 
-        @media screen and (max-width: 1130px) {
-          .ourSolutions .container{display: none;}}
-        
 @media screen and (max-width: 1130px) {
   .ourSolutions .container .solution-items .verical-line {
     height: 380.253px; }
     .ourSolutions .container .solution-items .verical-line .item {
       height: 470px; } }
 @media screen and (max-width: 900px) {
-  .ourSolutions .container .solution-items .verical-line {
-    height: 480.253px; }
-    .ourSolutions .container .solution-items .verical-line .item {
-      height: 570px; } }
-@media screen and (max-width: 700px) {
   .ourSolutions .container {
     margin-top: 100px; }
     .ourSolutions .container h2 {
